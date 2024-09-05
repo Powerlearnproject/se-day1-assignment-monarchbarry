@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-In the technology industry, software engineering plays a critical role by providing tools, frameworks, and methodologies to develop complex systems that meet user needs while ensuring quality, maintainability, and sustainability.
+Software engineering is the systematic application of engineering principles to the design, development, testing, and maintenance of software. In the technology industry, software engineering plays a critical role by providing tools, frameworks, and methodologies to develop complex systems that meet user needs while ensuring quality, maintainability, and sustainability.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. The Birth of Structured Programming (1960s): This introduced structured programming techniques that reduced errors and improved code readability.
